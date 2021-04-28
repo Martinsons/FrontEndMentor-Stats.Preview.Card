@@ -13,7 +13,7 @@ My version of FrontEndMentor Stats preview card component challenge, used HTML a
 ### Links
 
 - Solution URL: [https://github.com/Martinsons/FrontEndMentor-Stats.Preview.Card]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://affectionate-lewin-6f6f1c.netlify.app/]
 
 ### Built with
 
