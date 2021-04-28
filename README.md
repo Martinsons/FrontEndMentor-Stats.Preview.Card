@@ -12,7 +12,7 @@ My version of FrontEndMentor Stats preview card component challenge, used HTML a
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Martinsons/FrontEndMentor-Stats.Preview.Card)
+- Solution URL: [https://github.com/Martinsons/FrontEndMentor-Stats.Preview.Card]
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
